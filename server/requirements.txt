@@ -1,0 +1,6 @@
+flask
+flask-socketio
+eventlet
+insightface
+opencv-python-headless
+numpy
